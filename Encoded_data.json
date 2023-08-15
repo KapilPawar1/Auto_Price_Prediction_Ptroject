@@ -1,0 +1,1 @@
+{"fuel_type": {"gas": 0, "diesel": 1}, "aspiration": {"std": 0, "turbo": 1}, "num_of_doors": {"four": 4, "two": 2}, "engine_location": {"front": 0, "rear": 1}, "num_of_cylinders": {"four": 4, "six": 6, "five": 5, "eight": 8, "two": 2, "three": 3, "twelve": 12}}
